@@ -1,0 +1,12 @@
+{
+    "name": "wilder/composer",
+    "description": "Autoload first project",
+    "authors": [{
+        "name": "Amanel",
+        "email": "amanel.gauriat@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": { "App\\": "src/" }
+    }
+}
